@@ -2,12 +2,13 @@ package cclient
 
 import (
 	"context"
-	"crypto/tls"
 	"errors"
 	"fmt"
 	"net"
 	"strings"
 	"sync"
+
+	tls "github.com/refraction-networking/utls"
 
 	http "github.com/Leoo0x1/fhttp"
 
