@@ -26,10 +26,10 @@ import (
 	"net/url"
 	"sync"
 
-	http "github.com/useflyent/fhttp"
+	http "github.com/Leoo0x1/fhttp"
 	"golang.org/x/net/proxy"
 
-	"github.com/useflyent/fhttp/http2"
+	"github.com/Leoo0x1/fhttp/http2"
 )
 
 // connectDialer allows to configure one-time use HTTP CONNECT client

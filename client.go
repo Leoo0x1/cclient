@@ -1,7 +1,7 @@
 package cclient
 
 import (
-	http "github.com/useflyent/fhttp"
+	http "github.com/Leoo0x1/fhttp"
 	"golang.org/x/net/proxy"
 
 	utls "github.com/refraction-networking/utls"
